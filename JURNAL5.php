@@ -1,4 +1,5 @@
 <?php
+// Dwi Aprilianto
 // Inisialisasi array barang
 $barang = [
     ["id" => 1, "nama" => "Buku", "kategori" => "Alat Tulis", "harga" => 20000],
